@@ -16,3 +16,19 @@ main {
   box-shadow: 3px 3px 10px rgb(0, 0, 0);
   border-radius: 10px;
 }
+
+h1 {
+  font-size: 2em;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: rgb(0, 0, 0);
+}
+
+img.lado {
+  float: right;
+}
+
